@@ -22,6 +22,8 @@ Technologies
 Game features
 ------------
 
+Physics simulation: Throwing cubes of different size at tin cans.
+
 Aiming with crosshair (aim with arrow keys).  
 3 different cube sizes (change size with 1, 2 and 3).  
 3 different throwing spots (circulate with TAB).  
